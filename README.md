@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE_ENGAGEMENT-39FF14?style=for-the-badge&labelColor=0d1117&logo=hackthebox&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/ROLE-PENTESTER_%40_ONE_eSECURITY-blueviolet?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/ROLE-PENTESTER-blueviolet?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/LOCATION-BARCELONA-orange?style=for-the-badge&labelColor=0d1117" />
 </div>
 
@@ -19,7 +19,7 @@
 ```
 
 I'm a **computer engineer with a Master's in Cybersecurity**, currently working full-time
-as a **Penetration Tester at ONE eSecurity**. Before going full offense, I spent time on
+as a **Penetration Tester**. Before going full offense, I spent time on
 the defensive side as a **Network Security Engineer at BBVA** — which means I've sat on
 both sides of the firewall, and I know exactly what blue teams look for when I'm trying
 not to get caught.
